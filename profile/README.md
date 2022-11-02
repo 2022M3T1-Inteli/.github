@@ -6,7 +6,7 @@ Desenvolver um projeto de Modelo Preditivo com o objetivo de aprimorar e persona
 ## 💻 Lógica para predição com inteligência artificial:
 
 - Grupo 1 - Panorama Analytics - Banco Pan:
-  - Link do repositório: https://github.com/2022M3T5-inteli/Panorama Analytics
+  - Link do repositório: https://github.com/2022M3T5-inteli/Panorama-Analytics
 
 - Grupo 2 - Turing Labs:
   - Link do repositório: https://github.com/2022M3T5-inteli/Turing-Labs
