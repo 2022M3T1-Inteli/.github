@@ -1,7 +1,14 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 1 - Banco Pan
 
+## 🔍 O problema:
+Como aumentar a satisfação dos clientes com o modelo de atendimento personalizado.
+
 ## 🎯 O objetivo:
 Desenvolver um projeto de Modelo Preditivo com o objetivo de aprimorar e personalizar o atendimento aos seus clientes.
+
+## 🧩 O público-alvo:
+Clientes do Banco Pan.
+
 
 ## 💻 Lógica para predição com inteligência artificial:
 
